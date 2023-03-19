@@ -4,8 +4,8 @@
 
 
 // Wifi params
-const char* ssid = "Antena 6G Test 150% Mocy"; //edit this with network name
-const char* password = "rektor123"; //edit this with network password
+const char* ssid = ""; //edit this with network name
+const char* password = ""; //edit this with network password
 
 // Components params
 const int port = 42069;
