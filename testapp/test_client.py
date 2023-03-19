@@ -4,7 +4,7 @@ s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 port = 42069;
 
-s.connect(('192.168.137.188', port))
+s.connect(('192.168.137.145', port))
 
 while True:
     try:
